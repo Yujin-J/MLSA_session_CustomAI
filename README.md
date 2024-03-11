@@ -1,2 +1,2 @@
-Download this zip file for train/test AI.
-\nIf you can not use github, ask to staff.
+Download this zip file for train/test AI. \n\n
+If you can not use github, ask to staff.
